@@ -1,0 +1,41 @@
+This is debug information
+This is Info information
+This is warn information
+This is Error information
+This is fatal information
+In a Operation Constructor:
+Clicked on Save as button
+Clicked on Save button
+This is debug information
+This is Info information
+This is warn information
+This is Error information
+This is fatal information
+Calculator started
+This is debug information
+This is Info information
+This is warn information
+This is Error information
+This is fatal information
+Calculator started
+Click on button Two
+Division performed
+Assertion is true
+Click on button three
+This is debug information
+This is Info information
+This is warn information
+This is Error information
+This is fatal information
+Calculator started
+Click on button Two
+Division performed
+Assertion is true
+Click on button three
+Clicked on equal button
+Calculator started
+Click on button Two
+Division performed
+Assertion is true
+Click on button three
+Clicked on equal button

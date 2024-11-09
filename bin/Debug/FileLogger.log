@@ -1,0 +1,32 @@
+2024-06-09 20:55:17,166ata [UnitTestProject1.Log4net.TestLogger] [DEBUG] [TestLog4Net] This is debug information
+2024-06-09 20:55:17,239ata [UnitTestProject1.Log4net.TestLogger] [INFO] [TestLog4Net] This is Info information
+2024-06-09 20:55:17,239ata [UnitTestProject1.Log4net.TestLogger] [WARN] [TestLog4Net] This is warn information
+2024-06-09 20:55:17,240ata [UnitTestProject1.Log4net.TestLogger] [ERROR] [TestLog4Net] This is Error information
+2024-06-09 20:55:17,240ata [UnitTestProject1.Log4net.TestLogger] [FATAL] [TestLog4Net] This is fatal information
+09-Jun-2024 [UnitTestProject1.Log4net.TestLogger] [DEBUG] [TestLog4Net] This is debug information
+09-Jun-2024 [UnitTestProject1.Log4net.TestLogger] [INFO] [TestLog4Net] This is Info information
+09-Jun-2024 [UnitTestProject1.Log4net.TestLogger] [WARN] [TestLog4Net] This is warn information
+09-Jun-2024 [UnitTestProject1.Log4net.TestLogger] [ERROR] [TestLog4Net] This is Error information
+09-Jun-2024 [UnitTestProject1.Log4net.TestLogger] [FATAL] [TestLog4Net] This is fatal information
+08-Nov-2024 [UnitTestProject1.Feature1StepDefinitions] [INFO] [GivenUserOpenedCalculatorApp] Calculator started
+08-Nov-2024 [UnitTestProject1.Feature1StepDefinitions] [INFO] [WhenUserEnteredFirstNumber] Click on button Two
+08-Nov-2024 [UnitTestProject1.Feature1StepDefinitions] [INFO] [WhenDivisionPerformed] Division performed
+08-Nov-2024 [UnitTestProject1.Feature1StepDefinitions] [INFO] [WhenDivisionPerformed] Assertion is true
+08-Nov-2024 [UnitTestProject1.Feature1StepDefinitions] [INFO] [WhenUserEnteredSecondNumber] Click on button three
+08-Nov-2024 [UnitTestProject1.Feature1StepDefinitions] [INFO] [ThenUserPressedEquals] Clicked on equal button
+08-Nov-2024 [UnitTestProject1.Feature1StepDefinitions] [INFO] [GivenUserOpenedCalculatorApp] Calculator started
+08-Nov-2024 [UnitTestProject1.Feature1StepDefinitions] [INFO] [WhenUserEnteredFirstNumber] Click on button Two
+08-Nov-2024 [UnitTestProject1.Feature1StepDefinitions] [INFO] [WhenAdditionPerformed] Plus button pressed
+08-Nov-2024 [UnitTestProject1.Feature1StepDefinitions] [INFO] [WhenUserEnteredSecondNumber] Click on button three
+08-Nov-2024 [UnitTestProject1.Feature1StepDefinitions] [INFO] [ThenUserPressedEquals] Clicked on equal button
+08-Nov-2024 07:56:28 [UnitTestProject1.Feature1StepDefinitions] [INFO] [GivenUserOpenedCalculatorApp] Calculator started
+08-Nov-2024 07:56:28 [UnitTestProject1.Feature1StepDefinitions] [INFO] [WhenUserEnteredFirstNumber] Click on button Two
+08-Nov-2024 07:56:29 [UnitTestProject1.Feature1StepDefinitions] [INFO] [WhenAdditionPerformed] Plus button pressed
+08-Nov-2024 07:56:29 [UnitTestProject1.Feature1StepDefinitions] [INFO] [WhenUserEnteredSecondNumber] Click on button three
+08-Nov-2024 07:56:30 [UnitTestProject1.Feature1StepDefinitions] [INFO] [ThenUserPressedEquals] Clicked on equal button
+08-Nov-2024 07:57:13 [UnitTestProject1.Feature1StepDefinitions] [INFO] [GivenUserOpenedCalculatorApp] Calculator started
+08-Nov-2024 07:57:14 [UnitTestProject1.Feature1StepDefinitions] [INFO] [WhenUserEnteredFirstNumber] Click on button Two
+08-Nov-2024 07:57:14 [UnitTestProject1.Feature1StepDefinitions] [INFO] [WhenDivisionPerformed] Division performed
+08-Nov-2024 07:57:14 [UnitTestProject1.Feature1StepDefinitions] [INFO] [WhenDivisionPerformed] Assertion is true
+08-Nov-2024 07:57:14 [UnitTestProject1.Feature1StepDefinitions] [INFO] [WhenUserEnteredSecondNumber] Click on button three
+08-Nov-2024 07:57:15 [UnitTestProject1.Feature1StepDefinitions] [INFO] [ThenUserPressedEquals] Clicked on equal button
